@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: "Nunito", sans-serif;
+    @apply bg-background-body;
+  }
+  .screen-fit {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+  }
+}
+
+@layer components {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .navlist {
+    @apply flex items-center justify-center gap-2 px-4 py-2 mx-auto transition-colors duration-300 rounded-full cursor-pointer select-none bg-none hover:bg-background-soft;
+  }
+  .room {
+    @apply relative py-3 flex flex-col items-center justify-center w-[75px] text-xs shrink-0 snap-start cursor-pointer;
+  }
+  .room::after {
+    @apply absolute w-[0%] h-1 bg-background-harder bottom-1 duration-300 transition-all ease-in-out;
+    content: "";
+  }
+  .room:hover:after {
+    @apply w-full;
+  }
+  .leftright {
+    @apply bg-white hover:bg-background-soft;
+  }
+
+  .leftrighthighlight {
+    @apply hover:bg-background-soft;
+  }
+}
