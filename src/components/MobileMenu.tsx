@@ -13,7 +13,10 @@ const MobileMenu = () => {
       className="z-[2000] w-full h-full fixed bg-background-body py-10"
       onClick={() => dispatch(toggleMenu())}
     >
-      <div className="fixed top-4 right-4 ">
+      <div
+        className="fixed top-4 right-4 "
+        onClick={() => dispatch(toggleMenu())}
+      >
         <IoIosCloseCircleOutline
           className="text-5xl text-text-normal"
           onClick={() => dispatch(toggleMenu())}
