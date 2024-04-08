@@ -62,10 +62,9 @@ const Highlight = () => {
         className="z-0 flex gap-6 mt-5 overflow-hidden overflow-x-auto select-none scroll-smooth snap-x snap-mandatory touch-pan-x scrollbar-hide "
       >
         {HighlightList.map((highlight, index) => (
-          <div className=" w-80 shrink-0">
+          <div key={index} className=" w-80 shrink-0">
             <a href="#">
               <img
-                key={index}
                 src={highlight.imageUrl}
                 alt={highlight.text}
                 className="object-contain rounded-3xl"

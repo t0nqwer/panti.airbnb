@@ -2,6 +2,7 @@ import { FooterMenu } from "../constants";
 import { useDispatch, useSelector } from "react-redux";
 import { AppDispatch, RootState } from "../state/store";
 import { toggleMenu } from "../state/mobilemenu/mobileSlice";
+import { IoIosCloseCircleOutline } from "react-icons/io";
 
 const MobileMenu = () => {
   const dispatch = useDispatch<AppDispatch>();
@@ -9,9 +10,15 @@ const MobileMenu = () => {
   if (!mobileMenu) return null;
   return (
     <div
-      className="z-[2000] w-full h-full fixed bg-background-body"
+      className="z-[2000] w-full h-full fixed bg-background-body py-10"
       onClick={() => dispatch(toggleMenu())}
     >
+      <div className="fixed top-4 right-4 ">
+        <IoIosCloseCircleOutline
+          className="text-5xl text-text-normal"
+          onClick={() => dispatch(toggleMenu())}
+        />
+      </div>
       <div className="">
         {FooterMenu.map((item, i1) => (
           <div
