@@ -1223,3 +1223,370 @@ export const socialMedia = [
     link: "https://www.youtube.com",
   },
 ];
+
+export const foodPost = [
+  {
+    topic_id: 42631941,
+    title: "7-11 delivery",
+    topic_type: 3,
+    created_time: "2024-04-08T09:34:13Z",
+    views_count: 0,
+    comments_count: 3,
+    votes_count: 0,
+    author: {
+      id: 7914450,
+      name: "สมาชิกหมายเลข 7914450",
+      avatar: {
+        large: "https://ptcdn.info/images/avatar_member_default.png",
+        medium: "https://ptcdn.info/images/avatar_member_default.png",
+        small: "https://ptcdn.info/images/avatar_member_default.png",
+      },
+      slug: "/profile/7914450",
+    },
+    tags: [
+      { name: "อาหารเดลิเวอรี", slug: "อาหารเดลิเวอรี" },
+      { name: "7-Eleven", slug: "7-Eleven" },
+    ],
+  },
+  {
+    topic_id: 42631915,
+    title: "ราเมน ซุปกลมกล่อม ดับร้อน!",
+    topic_type: 4,
+    created_time: "2024-04-08T09:23:14Z",
+    thumbnail_url:
+      "https://f.ptcdn.info/772/083/000/sbma1e21wxldnU5W64iFP-s.jpg",
+    views_count: 0,
+    comments_count: 5,
+    votes_count: 1,
+    author: {
+      id: 7778472,
+      name: "สมาชิกหมายเลข 7778472",
+      avatar: {
+        original:
+          "https://p.ptcdn.info/295/015/000/7778472_16976836782146_o.jpg",
+        large: "https://p.ptcdn.info/295/015/000/7778472_16976836782146_l.jpg",
+        medium: "https://p.ptcdn.info/295/015/000/7778472_16976836782146_m.jpg",
+        small: "https://p.ptcdn.info/295/015/000/7778472_16976836782146_s.jpg",
+      },
+      slug: "/profile/7778472",
+    },
+    is_cr: true,
+    is_sr: false,
+    is_br: false,
+    tags: [{ name: "อาหารญี่ปุ่น", slug: "อาหารญี่ปุ่น" }],
+  },
+  {
+    topic_id: 42631877,
+    title: "โรงแรม อารีน่ารีสอร์ท (จ.อุตรดิตถ์)",
+    topic_type: 4,
+    created_time: "2024-04-08T09:04:06Z",
+    thumbnail_url:
+      "https://f.ptcdn.info/772/083/000/sbm8et1nm4njFfGk0Dn3I-s.png",
+    views_count: 0,
+    comments_count: 5,
+    votes_count: 1,
+    author: {
+      id: 8016770,
+      name: "สมาชิกหมายเลข 8016770",
+      avatar: {
+        large: "https://ptcdn.info/images/avatar_member_default.png",
+        medium: "https://ptcdn.info/images/avatar_member_default.png",
+        small: "https://ptcdn.info/images/avatar_member_default.png",
+      },
+      slug: "/profile/8016770",
+    },
+    is_cr: false,
+    is_sr: true,
+    is_br: false,
+    tags: [
+      { name: "โรงแรมรีสอร์ท", slug: "โรงแรมรีสอร์ท" },
+      { name: "จังหวัดอุตรดิตถ์", slug: "จังหวัดอุตรดิตถ์" },
+      { name: "อาหาร", slug: "อาหาร" },
+    ],
+  },
+  {
+    topic_id: 42631864,
+    title:
+      'รีวิว "Fufu Shabu" บุฟเฟ่ต์หม้อไฟตำรับไต้หวันวัตถุดิบคุณภาพดีกว่า 150 เมนู/ไอศครีมพรีเมียมไม่อั้น เริ่มต้นแค่คนละ 688 บ.',
+    topic_type: 4,
+    created_time: "2024-04-08T08:57:15Z",
+    thumbnail_url:
+      "https://f.ptcdn.info/771/083/000/sbm82aso9d1HUJ6AoL59-s.jpg",
+    views_count: 0,
+    comments_count: 5,
+    votes_count: 3,
+    author: {
+      id: 4865251,
+      name: "Food Addicts",
+      avatar: {
+        original:
+          "https://p.ptcdn.info/014/014/000/4865251_16405341098545_o.png",
+        large: "https://p.ptcdn.info/014/014/000/4865251_16405341098545_l.jpg",
+        medium: "https://p.ptcdn.info/014/014/000/4865251_16405341098545_m.jpg",
+        small: "https://p.ptcdn.info/014/014/000/4865251_16405341098545_s.jpg",
+      },
+      slug: "/profile/4865251",
+    },
+    is_cr: true,
+    is_sr: false,
+    is_br: false,
+    tags: [
+      { name: "อาหารคาว", slug: "อาหารคาว" },
+      { name: "อาหารบุฟเฟ่ต์", slug: "อาหารบุฟเฟ่ต์" },
+      { name: "อาหารจีน", slug: "อาหารจีน" },
+      { name: "อาหารซีฟู้ด", slug: "อาหารซีฟู้ด" },
+      { name: "ชาบู/สุกี้ยากี้", slug: "ชาบู/สุกี้ยากี้" },
+    ],
+  },
+  {
+    topic_id: 42631861,
+    title:
+      "เซ็ง… โดน พนง.ฟูจิ บอกให้กินถึงสามหมื่น ก่อนสิ้นเดือน ก.ค.ปีก่อน เพื่อรักษาสิทธิ์ส่วนลด แต่สุดท้าย ไม่ได้ตามนั้น",
+    topic_type: 1,
+    created_time: "2024-04-08T08:56:24Z",
+    thumbnail_url:
+      "https://f.ptcdn.info/772/083/000/sbm8sf20dfa8sqHoHukBJ-s.jpg",
+    views_count: 0,
+    comments_count: 2,
+    votes_count: 0,
+    author: {
+      id: 384930,
+      name: "Tenma_21",
+      avatar: {
+        original: "",
+        large: "https://ptcdn.info/images/avatar_member_default.png",
+        medium: "https://ptcdn.info/images/avatar_member_default.png",
+        small: "https://ptcdn.info/images/avatar_member_default.png",
+      },
+      slug: "/profile/384930",
+    },
+    tags: [
+      { name: "คุ้มครองผู้บริโภค", slug: "คุ้มครองผู้บริโภค" },
+      { name: "ร้านอาหาร", slug: "ร้านอาหาร" },
+    ],
+  },
+  {
+    topic_id: 42631850,
+    title: "อาหารยอดแย่ เป็นปัจจัยทางวัฒนธรรม",
+    topic_type: 3,
+    created_time: "2024-04-08T08:50:48Z",
+    views_count: 0,
+    comments_count: 3,
+    votes_count: 0,
+    author: {
+      id: 2694472,
+      name: "สมาชิกหมายเลข 2694472",
+      avatar: {
+        large: "https://ptcdn.info/images/avatar_member_default.png",
+        medium: "https://ptcdn.info/images/avatar_member_default.png",
+        small: "https://ptcdn.info/images/avatar_member_default.png",
+      },
+      slug: "/profile/2694472",
+    },
+    tags: [
+      { name: "อาหารภาคใต้", slug: "อาหารภาคใต้" },
+      { name: "วัฒนธรรมต่างชาติ", slug: "วัฒนธรรมต่างชาติ" },
+    ],
+  },
+  {
+    topic_id: 42631812,
+    title: "ร้อนๆแบบนี้ทำเมนูอะไรทานดี",
+    topic_type: 3,
+    created_time: "2024-04-08T08:28:57Z",
+    views_count: 0,
+    comments_count: 8,
+    votes_count: 0,
+    author: {
+      id: 8060414,
+      name: "สมาชิกหมายเลข 8060414",
+      avatar: {
+        original:
+          "https://p.ptcdn.info/589/015/000/8060414_17117017566835_o.png",
+        large: "https://p.ptcdn.info/589/015/000/8060414_17117017566835_l.jpg",
+        medium: "https://p.ptcdn.info/589/015/000/8060414_17117017566835_m.jpg",
+        small: "https://p.ptcdn.info/589/015/000/8060414_17117017566835_s.jpg",
+      },
+      slug: "/profile/8060414",
+    },
+    tags: [
+      { name: "ทำอาหาร", slug: "ทำอาหาร" },
+      { name: "อาหารไทย", slug: "อาหารไทย" },
+      { name: "ร้านอาหาร", slug: "ร้านอาหาร" },
+      { name: "เมนูอาหาร", slug: "เมนูอาหาร" },
+      { name: "เคล็ดลับก้นครัว", slug: "เคล็ดลับก้นครัว" },
+    ],
+  },
+  {
+    topic_id: 42631789,
+    title: "แกงจืดหมูห่มผักกาด",
+    topic_type: 1,
+    created_time: "2024-04-08T08:15:57Z",
+    thumbnail_url:
+      "https://f.ptcdn.info/771/083/000/sbm5961jsdvhmvi77v7KR-s.jpg",
+    views_count: 0,
+    comments_count: 7,
+    votes_count: 2,
+    author: {
+      id: 2237109,
+      name: "เจ๊แก้ว คนเก่ง",
+      avatar: {
+        original:
+          "http://p.ptcdn.info/368/004/000/2237109_7206509605_thumb-49141_o.jpg",
+        large:
+          "https://p.ptcdn.info/368/004/000/2237109_7206509605_thumb-49141_l.jpg",
+        medium:
+          "https://p.ptcdn.info/368/004/000/2237109_7206509605_thumb-49141_m.jpg",
+        small:
+          "https://p.ptcdn.info/368/004/000/2237109_7206509605_thumb-49141_s.jpg",
+      },
+      slug: "/profile/2237109",
+    },
+    tags: [
+      { name: "เมนูต้ม", slug: "เมนูต้ม" },
+      { name: "ทำอาหาร", slug: "ทำอาหาร" },
+      { name: "อาหารคาว", slug: "อาหารคาว" },
+    ],
+  },
+  {
+    topic_id: 42631717,
+    title: "ผ่าตัดไส้ติ่งสามารกินเครปได้ไหม",
+    topic_type: 3,
+    created_time: "2024-04-08T07:44:35Z",
+    views_count: 0,
+    comments_count: 3,
+    votes_count: 0,
+    author: {
+      id: 7858261,
+      name: "สมาชิกหมายเลข 7858261",
+      avatar: {
+        large: "https://ptcdn.info/images/avatar_member_default.png",
+        medium: "https://ptcdn.info/images/avatar_member_default.png",
+        small: "https://ptcdn.info/images/avatar_member_default.png",
+      },
+      slug: "/profile/7858261",
+    },
+    tags: [
+      { name: "โภชนาการ", slug: "โภชนาการ" },
+      { name: "ขนม", slug: "ขนม" },
+    ],
+  },
+  {
+    topic_id: 42631710,
+    title: "ทำไมทานกาแฟ แล้วไม่ค่อยหิวข้าวคะ",
+    topic_type: 1,
+    created_time: "2024-04-08T07:42:18Z",
+    views_count: 0,
+    comments_count: 5,
+    votes_count: 0,
+    author: {
+      id: 7978428,
+      name: "สมาชิกหมายเลข 7978428",
+      avatar: {
+        original:
+          "https://p.ptcdn.info/605/015/000/7978428_04438238221712414463_FB-IMG-1712356056521_o.jpg",
+        large:
+          "https://p.ptcdn.info/605/015/000/7978428_04438238221712414463_FB-IMG-1712356056521_l.jpg",
+        medium:
+          "https://p.ptcdn.info/605/015/000/7978428_04438238221712414463_FB-IMG-1712356056521_m.jpg",
+        small:
+          "https://p.ptcdn.info/605/015/000/7978428_04438238221712414463_FB-IMG-1712356056521_s.jpg",
+      },
+      slug: "/profile/7978428",
+    },
+    tags: [
+      { name: "กาแฟ", slug: "กาแฟ" },
+      { name: "ร้านกาแฟ", slug: "ร้านกาแฟ" },
+      { name: "ระบบร่างกาย", slug: "ระบบร่างกาย" },
+      { name: "ปัญหาชีวิต", slug: "ปัญหาชีวิต" },
+    ],
+  },
+  {
+    topic_id: 42631703,
+    title: "รีวิว...บางแสนหมื่นแคล ไม่ค่อยเที่ยวแต่กินไม่หยุด",
+    topic_type: 4,
+    created_time: "2024-04-08T07:40:26Z",
+    thumbnail_url:
+      "https://f.ptcdn.info/770/083/000/sbm2cn1ef5680XdUXkD9Z-s.jpg",
+    views_count: 0,
+    comments_count: 18,
+    votes_count: 1,
+    author: {
+      id: 315239,
+      name: "วิวริมหน้าต่าง",
+      avatar: {
+        original:
+          "https://p.ptcdn.info/076/015/000/315239_16877450512731_o.png",
+        large: "https://p.ptcdn.info/076/015/000/315239_16877450512731_l.jpg",
+        medium: "https://p.ptcdn.info/076/015/000/315239_16877450512731_m.jpg",
+        small: "https://p.ptcdn.info/076/015/000/315239_16877450512731_s.jpg",
+      },
+      slug: "/profile/315239",
+    },
+    is_cr: true,
+    is_sr: false,
+    is_br: false,
+    tags: [
+      { name: "บันทึกนักเดินทาง", slug: "บันทึกนักเดินทาง" },
+      { name: "เที่ยวไทย", slug: "เที่ยวไทย" },
+      { name: "อาหาร", slug: "อาหาร" },
+      { name: "ภาพถ่าย", slug: "ภาพถ่าย" },
+      { name: "ร้านอาหาร", slug: "ร้านอาหาร" },
+    ],
+  },
+  {
+    topic_id: 42631689,
+    title: "วันเกิด~ร้านอาหาร+โปรวันเกิดดีๆ",
+    topic_type: 3,
+    created_time: "2024-04-08T07:30:59Z",
+    views_count: 0,
+    comments_count: 0,
+    votes_count: 0,
+    author: {
+      id: 7880574,
+      name: "สมาชิกหมายเลข 7880574",
+      avatar: {
+        original:
+          "https://p.ptcdn.info/395/015/000/7880574_17020610543551_o.jpg",
+        large: "https://p.ptcdn.info/395/015/000/7880574_17020610543551_l.jpg",
+        medium: "https://p.ptcdn.info/395/015/000/7880574_17020610543551_m.jpg",
+        small: "https://p.ptcdn.info/395/015/000/7880574_17020610543551_s.jpg",
+      },
+      slug: "/profile/7880574",
+    },
+    tags: [
+      { name: "ร้านอาหาร", slug: "ร้านอาหาร" },
+      { name: "จังหวัดนนทบุรี", slug: "จังหวัดนนทบุรี" },
+    ],
+  },
+  {
+    topic_id: 42631684,
+    title:
+      "เที่ยววัดมณีวงศ์ ชมวังพญานาค วิจิตรตระการตา แล้วแวะภูตะลึง คาเฟ่สุดอลังการ ในจ.นครนายก",
+    topic_type: 1,
+    created_time: "2024-04-08T07:25:31Z",
+    thumbnail_url:
+      "https://f.ptcdn.info/770/083/000/sbm3191e7izYcTCP4a5Oi-s.jpg",
+    views_count: 0,
+    comments_count: 7,
+    votes_count: 0,
+    author: {
+      id: 1831260,
+      name: "เที่ยวสบายสบาย",
+      avatar: {
+        original:
+          "https://p.ptcdn.info/350/015/000/1831260_16998958985132_o.jpg",
+        large: "https://p.ptcdn.info/350/015/000/1831260_16998958985132_l.jpg",
+        medium: "https://p.ptcdn.info/350/015/000/1831260_16998958985132_m.jpg",
+        small: "https://p.ptcdn.info/350/015/000/1831260_16998958985132_s.jpg",
+      },
+      slug: "/profile/1831260",
+    },
+    tags: [
+      { name: "เที่ยววัด", slug: "เที่ยววัด" },
+      { name: "เที่ยวนครนายก", slug: "เที่ยวนครนายก" },
+      { name: "จังหวัดนครนายก", slug: "จังหวัดนครนายก" },
+      { name: "คาเฟ่ (Cafe)", slug: "คาเฟ่_(Cafe)" },
+      { name: "ร้านอาหาร", slug: "ร้านอาหาร" },
+    ],
+  },
+];

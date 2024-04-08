@@ -1,4 +1,3 @@
-import React from "react";
 import { FooterMenu, socialMedia } from "../constants";
 
 const Footer = () => {

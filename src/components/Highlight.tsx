@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 
 import { HighlightList } from "../constants";
 import { FaAngleLeft, FaAngleRight } from "react-icons/fa";

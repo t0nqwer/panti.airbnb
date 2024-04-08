@@ -1,4 +1,3 @@
-import React from "react";
 import { multiFormatDateString } from "../utils/time";
 
 const Card = ({

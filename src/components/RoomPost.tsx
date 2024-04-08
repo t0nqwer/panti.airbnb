@@ -1,37 +1,20 @@
-import React from "react";
-import { roomPostList } from "../constants";
-import { multiFormatDateString } from "../utils/time";
+import { foodPost } from "../constants";
+import Card from "./Card";
 
 const RoomPost = () => {
   return (
     <div className="flex flex-wrap w-full px-20 ">
-      {roomPostList.map((roomPost, index) => {
+      {foodPost.map((roomPost, index) => {
         if (index > 8) return null;
         return (
-          <div
+          <Card
             key={roomPost.topic_id}
-            className="relative w-1/3 h-40 p-3 bg-center bg-no-repeat bg-cover shrink-0 "
-          >
-            <div className="w-full h-full p-5 border shadow-xl border-boxborder rounded-2xl">
-              <div className="flex space-x-3">
-                {roomPost.thumbnail_url && (
-                  <img
-                    src={roomPost.thumbnail_url}
-                    className="object-cover h-20 rounded-lg w-28 "
-                  />
-                )}
-                <h1 className="text-xl text-text-normal line-clamp-3 ">
-                  {roomPost.title}
-                </h1>
-              </div>
-              <div className="absolute flex text-xs bottom-5 text-text-light text-text-normal text-opacity-65 ">
-                <p>{roomPost.author.name}</p>
-                <p className="ml-3">
-                  {multiFormatDateString(roomPost.created_time)}
-                </p>
-              </div>
-            </div>
-          </div>
+            topic_id={roomPost.topic_id}
+            thumbnail_url={roomPost.thumbnail_url}
+            title={roomPost.title}
+            authorName={roomPost.author.name}
+            created_time={roomPost.created_time}
+          />
         );
       })}
       <div className="flex justify-center w-full ">

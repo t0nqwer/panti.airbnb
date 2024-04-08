@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import { roomLists } from "../constants";
 import { FaAngleLeft, FaAngleRight } from "react-icons/fa";
 
@@ -6,7 +6,7 @@ const RoomList = () => {
   const carousel = useRef<HTMLInputElement>(null);
 
   const [maxScrollWidth, setMaxScrollWidth] = useState(0);
-  const [currentIndex, setCurrentIndex] = useState(0);
+
   const [position, setPosition] = useState(300);
 
   const handleScroll = (direction: string) => {
