@@ -16,7 +16,7 @@ const Card = ({
   return (
     <div
       key={topic_id}
-      className="relative w-1/3 h-40 p-3 bg-center bg-no-repeat bg-cover shrink-0 "
+      className="relative w-full h-40 p-3 bg-center bg-no-repeat bg-cover sm:w-1/2 xl:w-1/3 shrink-0 "
     >
       <div className="w-full h-full p-5 border shadow-lg border-boxborder rounded-2xl bg-background-primary">
         <div className="flex space-x-3">

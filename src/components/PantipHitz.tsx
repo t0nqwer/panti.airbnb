@@ -1,17 +1,17 @@
 import Card from "./Card";
-import { roomPostList } from "../constants";
+import { HiztLizt } from "../constants";
 
-const PantipRealtime = () => {
+const PantipHitz = () => {
   return (
     <div className="relative mt-10 divpadding ">
-      <h1 className="text-3xl font-bold text-text-highlight textPosition ">
-        Pantip Realtime
+      <h1 className="text-3xl font-bold text-center text-text-highlight sm:text-left">
+        Pantip Hitz
       </h1>
-      <p className="mt-1 text-xs text-text-normal textPosition">
-        กระทู้ที่มีคนเปิดอ่านมากในขณะนี้ อัปเดตทุกนาที
+      <p className="mt-1 text-xs text-center text-text-normal sm:text-left">
+        กระทู้ฮิตติดเทรนด์ทุก 10 นาที
       </p>
       <div className="flex flex-wrap w-full mt-3">
-        {roomPostList.map((roomPost, index) => {
+        {HiztLizt.map((roomPost, index) => {
           if (index > 8) return null;
           return (
             <Card
@@ -37,4 +37,4 @@ const PantipRealtime = () => {
   );
 };
 
-export default PantipRealtime;
+export default PantipHitz;

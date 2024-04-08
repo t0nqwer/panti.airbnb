@@ -32,12 +32,11 @@ const Highlight = () => {
     }
   }, []);
 
-  useEffect(() => {
-    console.log("position", position, maxScrollWidth);
-  }, [position, maxScrollWidth]);
   return (
-    <div className="relative px-20 py-10 ">
-      <h1 className="text-3xl font-bold text-text-highlight ">Highlights</h1>
+    <div className="relative py-10 divpadding ">
+      <h1 className="text-3xl font-bold text-text-highlight textPosition">
+        Highlights
+      </h1>
       {position > 0 + 344 && (
         <div className="absolute transform -translate-y-1/2 left-5 top-1/2 ">
           <button

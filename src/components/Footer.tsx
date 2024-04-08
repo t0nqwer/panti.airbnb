@@ -2,8 +2,8 @@ import { FooterMenu, socialMedia } from "../constants";
 
 const Footer = () => {
   return (
-    <div className="w-full px-20 pt-16 pb-6 mt-10 bg-background-harder">
-      <div className="flex justify-between w-2/3">
+    <div className="hidden w-full px-20 pt-16 pb-6 mt-10 bg-background-harder md:block">
+      <div className="flex justify-between w-full md:w-2/3">
         {FooterMenu.map((menu, i1) => {
           return (
             <div key={i1} className="">
