@@ -1,12 +1,12 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
 import { AiOutlineSearch } from "react-icons/ai";
 import { BiCommentAdd } from "react-icons/bi";
 import { GrGroup } from "react-icons/gr";
 
 const TopNavBar = () => {
-  const [activeSearch, setActiveSearch] = useState([]);
+  // const [activeSearch, setActiveSearch] = useState([]);
 
-  const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {};
+  // const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {};
   return (
     <div className="flex items-center justify-between h-20 px-8 ">
       {/* <div>
@@ -21,7 +21,7 @@ const TopNavBar = () => {
             type="search"
             placeholder="Type Here"
             className="w-full px-4 py-3 rounded-full bg-background-primary"
-            onChange={(e) => handleSearch(e)}
+            // onChange={(e) => handleSearch(e)}
           />
           <button className="absolute p-3 -translate-y-1/2 rounded-full right-1 top-1/2 bg-background-soft">
             <AiOutlineSearch />
