@@ -1,4 +1,3 @@
-import { foodPost } from "../constants";
 import { RootState } from "../state/store";
 import Card from "./Card";
 import { useDispatch, useSelector } from "react-redux";

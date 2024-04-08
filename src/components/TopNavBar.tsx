@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { AiOutlineSearch } from "react-icons/ai";
 import { BiCommentAdd } from "react-icons/bi";
 import { GrGroup } from "react-icons/gr";

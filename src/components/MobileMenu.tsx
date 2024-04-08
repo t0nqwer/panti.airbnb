@@ -1,4 +1,3 @@
-import React from "react";
 import { FooterMenu } from "../constants";
 import { useDispatch, useSelector } from "react-redux";
 import { AppDispatch, RootState } from "../state/store";

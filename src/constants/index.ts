@@ -396,7 +396,7 @@ export const roomPostList = [
     topic_id: 42627934,
     title:
       "ทำไมคนไทยที่อายุเยอะ ๆ หน่อยชอบบอกว่าเมืองไทยในอดีตอากาศไม่ร้อน (ทั้ง ๆ ที่โคตรร้อนเหมือนกัน)",
-    topic_type: 3,
+
     created_time: "2024-04-06T09:00:26Z",
     thumbnail_url:
       "https://f.ptcdn.info/753/083/000/sbijkazula7ta0wHFA5p-s.png",
@@ -406,17 +406,6 @@ export const roomPostList = [
     author: {
       id: 6479057,
       name: "ไม่ชอบเรียนเคมี แต่หนีไม่พ้น",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/383/014/000/6479057_13051122601655720650_IMG-2225-HEIC_o.jpg",
-        large:
-          "https://p.ptcdn.info/383/014/000/6479057_13051122601655720650_IMG-2225-HEIC_l.jpg",
-        medium:
-          "https://p.ptcdn.info/383/014/000/6479057_13051122601655720650_IMG-2225-HEIC_m.jpg",
-        small:
-          "https://p.ptcdn.info/383/014/000/6479057_13051122601655720650_IMG-2225-HEIC_s.jpg",
-      },
-      slug: "/profile/6479057",
     },
     tags: [
       {
@@ -455,12 +444,6 @@ export const roomPostList = [
     author: {
       id: 8068463,
       name: "สมาชิกหมายเลข 8068463",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8068463",
     },
     tags: [
       {
@@ -490,12 +473,6 @@ export const roomPostList = [
     author: {
       id: 781019,
       name: "สมาชิกหมายเลข 781019",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/781019",
     },
     tags: [
       {
@@ -535,14 +512,6 @@ export const roomPostList = [
     author: {
       id: 287767,
       name: "stardom",
-      avatar: {
-        original:
-          "http://p.ptcdn.info/310/002/000/287767_8798741984_----_o.jpg",
-        large: "https://p.ptcdn.info/310/002/000/287767_8798741984_----_l.jpg",
-        medium: "https://p.ptcdn.info/310/002/000/287767_8798741984_----_m.jpg",
-        small: "https://p.ptcdn.info/310/002/000/287767_8798741984_----_s.jpg",
-      },
-      slug: "/profile/287767",
     },
     tags: [
       {
@@ -571,14 +540,6 @@ export const roomPostList = [
     author: {
       id: 188794,
       name: "The O.C.",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/497/013/000/188794_16219084648303_o.jpg",
-        large: "https://p.ptcdn.info/497/013/000/188794_16219084648303_l.jpg",
-        medium: "https://p.ptcdn.info/497/013/000/188794_16219084648303_m.jpg",
-        small: "https://p.ptcdn.info/497/013/000/188794_16219084648303_s.jpg",
-      },
-      slug: "/profile/188794",
     },
     tags: [
       {
@@ -602,14 +563,6 @@ export const roomPostList = [
     author: {
       id: 5310289,
       name: "สมาชิกหมายเลข 5310289",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/548/015/000/5310289_17097892648207_o.jpg",
-        large: "https://p.ptcdn.info/548/015/000/5310289_17097892648207_l.jpg",
-        medium: "https://p.ptcdn.info/548/015/000/5310289_17097892648207_m.jpg",
-        small: "https://p.ptcdn.info/548/015/000/5310289_17097892648207_s.jpg",
-      },
-      slug: "/profile/5310289",
     },
     tags: [
       {
@@ -649,17 +602,6 @@ export const roomPostList = [
     author: {
       id: 599190,
       name: "Honeymile",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/318/015/000/599190_45445389661698564474_IMG-0676-JPG_o.jpg",
-        large:
-          "https://p.ptcdn.info/318/015/000/599190_45445389661698564474_IMG-0676-JPG_l.jpg",
-        medium:
-          "https://p.ptcdn.info/318/015/000/599190_45445389661698564474_IMG-0676-JPG_m.jpg",
-        small:
-          "https://p.ptcdn.info/318/015/000/599190_45445389661698564474_IMG-0676-JPG_s.jpg",
-      },
-      slug: "/profile/599190",
     },
     tags: [
       {
@@ -698,17 +640,6 @@ export const roomPostList = [
     author: {
       id: 7171311,
       name: "สมาชิกหมายเลข 7171311",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/038/015/000/7171311_01196875871686091816_IMG-20230607-054938_o.jpg",
-        large:
-          "https://p.ptcdn.info/038/015/000/7171311_01196875871686091816_IMG-20230607-054938_l.jpg",
-        medium:
-          "https://p.ptcdn.info/038/015/000/7171311_01196875871686091816_IMG-20230607-054938_m.jpg",
-        small:
-          "https://p.ptcdn.info/038/015/000/7171311_01196875871686091816_IMG-20230607-054938_s.jpg",
-      },
-      slug: "/profile/7171311",
     },
     tags: [
       {
@@ -736,14 +667,6 @@ export const roomPostList = [
     author: {
       id: 6890503,
       name: "สมาชิกหมายเลข 6890503",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/742/014/000/6890503_16723290669402_o.jpg",
-        large: "https://p.ptcdn.info/742/014/000/6890503_16723290669402_l.jpg",
-        medium: "https://p.ptcdn.info/742/014/000/6890503_16723290669402_m.jpg",
-        small: "https://p.ptcdn.info/742/014/000/6890503_16723290669402_s.jpg",
-      },
-      slug: "/profile/6890503",
     },
     tags: [
       {
@@ -776,17 +699,6 @@ export const roomPostList = [
     author: {
       id: 6506073,
       name: "ตราบฟ้าตะวันลับ",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/266/015/000/6506073_60019655151696509656_IMG-1938-JPG_o.jpg",
-        large:
-          "https://p.ptcdn.info/266/015/000/6506073_60019655151696509656_IMG-1938-JPG_l.jpg",
-        medium:
-          "https://p.ptcdn.info/266/015/000/6506073_60019655151696509656_IMG-1938-JPG_m.jpg",
-        small:
-          "https://p.ptcdn.info/266/015/000/6506073_60019655151696509656_IMG-1938-JPG_s.jpg",
-      },
-      slug: "/profile/6506073",
     },
     tags: [
       {
@@ -824,17 +736,6 @@ export const roomPostList = [
     author: {
       id: 2326138,
       name: "สมาชิกหมายเลข 2326138",
-      avatar: {
-        original:
-          "http://p.ptcdn.info/163/004/000/2326138_7757100056_0ad2-e002_o.jpg",
-        large:
-          "https://p.ptcdn.info/163/004/000/2326138_7757100056_0ad2-e002_l.jpg",
-        medium:
-          "https://p.ptcdn.info/163/004/000/2326138_7757100056_0ad2-e002_m.jpg",
-        small:
-          "https://p.ptcdn.info/163/004/000/2326138_7757100056_0ad2-e002_s.jpg",
-      },
-      slug: "/profile/2326138",
     },
     tags: [
       {
@@ -862,14 +763,6 @@ export const roomPostList = [
     author: {
       id: 5918554,
       name: "สมาชิกหมายเลข 5918554",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/406/015/000/5918554_17025664963724_o.jpg",
-        large: "https://p.ptcdn.info/406/015/000/5918554_17025664963724_l.jpg",
-        medium: "https://p.ptcdn.info/406/015/000/5918554_17025664963724_m.jpg",
-        small: "https://p.ptcdn.info/406/015/000/5918554_17025664963724_s.jpg",
-      },
-      slug: "/profile/5918554",
     },
     tags: [
       {
@@ -903,12 +796,6 @@ export const roomPostList = [
     author: {
       id: 5987466,
       name: "สมาชิกหมายเลข 5987466",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/5987466",
     },
     tags: [
       {
@@ -943,15 +830,6 @@ export const roomPostList = [
     author: {
       id: 309860,
       name: "parn 256",
-      avatar: {
-        original:
-          "http://p.ptcdn.info/076/000/000/309860_3118979705_3parn_o.png",
-        large: "https://p.ptcdn.info/076/000/000/309860_3118979705_3parn_l.jpg",
-        medium:
-          "https://p.ptcdn.info/076/000/000/309860_3118979705_3parn_m.jpg",
-        small: "https://p.ptcdn.info/076/000/000/309860_3118979705_3parn_s.jpg",
-      },
-      slug: "/profile/309860",
     },
     tags: [
       {
@@ -1019,17 +897,6 @@ export const roomPostList = [
     author: {
       id: 7031239,
       name: "สมาชิกหมายเลข 7031239",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/374/014/000/7031239_68380383161655319611_IMG-7338-JPG_o.jpg",
-        large:
-          "https://p.ptcdn.info/374/014/000/7031239_68380383161655319611_IMG-7338-JPG_l.jpg",
-        medium:
-          "https://p.ptcdn.info/374/014/000/7031239_68380383161655319611_IMG-7338-JPG_m.jpg",
-        small:
-          "https://p.ptcdn.info/374/014/000/7031239_68380383161655319611_IMG-7338-JPG_s.jpg",
-      },
-      slug: "/profile/7031239",
     },
     tags: [
       {
@@ -1058,14 +925,6 @@ export const roomPostList = [
     author: {
       id: 1078823,
       name: "กัมบอล",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/791/012/000/1078823_15955902026287_o.jpg",
-        large: "https://p.ptcdn.info/791/012/000/1078823_15955902026287_l.jpg",
-        medium: "https://p.ptcdn.info/791/012/000/1078823_15955902026287_m.jpg",
-        small: "https://p.ptcdn.info/791/012/000/1078823_15955902026287_s.jpg",
-      },
-      slug: "/profile/1078823",
     },
     tags: [
       {
@@ -1096,12 +955,6 @@ export const roomPostList = [
     author: {
       id: 7985411,
       name: "สมาชิกหมายเลข 7985411",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/7985411",
     },
     tags: [
       {
@@ -1143,17 +996,6 @@ export const HiztLizt = [
     author: {
       id: 310059,
       name: "ฮก ฮก",
-      avatar: {
-        original:
-          "http://p.ptcdn.info/219/001/000/310059_8899442396_t2013-11-14-092145_o.jpg",
-        large:
-          "https://p.ptcdn.info/219/001/000/310059_8899442396_t2013-11-14-092145_l.jpg",
-        medium:
-          "https://p.ptcdn.info/219/001/000/310059_8899442396_t2013-11-14-092145_m.jpg",
-        small:
-          "https://p.ptcdn.info/219/001/000/310059_8899442396_t2013-11-14-092145_s.jpg",
-      },
-      slug: "/profile/310059",
     },
     tags: [
       {
@@ -1189,14 +1031,6 @@ export const HiztLizt = [
     author: {
       id: 188794,
       name: "The O.C.",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/497/013/000/188794_16219084648303_o.jpg",
-        large: "https://p.ptcdn.info/497/013/000/188794_16219084648303_l.jpg",
-        medium: "https://p.ptcdn.info/497/013/000/188794_16219084648303_m.jpg",
-        small: "https://p.ptcdn.info/497/013/000/188794_16219084648303_s.jpg",
-      },
-      slug: "/profile/188794",
     },
     tags: [
       {
@@ -1218,12 +1052,6 @@ export const HiztLizt = [
     author: {
       id: 292004,
       name: "gosurachai",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/292004",
     },
     tags: [
       {
@@ -1255,12 +1083,6 @@ export const HiztLizt = [
     author: {
       id: 4962221,
       name: "สมาชิกหมายเลข 4962221",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/4962221",
     },
     tags: [
       {
@@ -1299,14 +1121,6 @@ export const HiztLizt = [
     author: {
       id: 4021474,
       name: "LisaCool",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/248/015/000/4021474_16957715228767_o.jpg",
-        large: "https://p.ptcdn.info/248/015/000/4021474_16957715228767_l.jpg",
-        medium: "https://p.ptcdn.info/248/015/000/4021474_16957715228767_m.jpg",
-        small: "https://p.ptcdn.info/248/015/000/4021474_16957715228767_s.jpg",
-      },
-      slug: "/profile/4021474",
     },
     tags: [
       {
@@ -1340,15 +1154,6 @@ export const HiztLizt = [
     author: {
       id: 309860,
       name: "parn 256",
-      avatar: {
-        original:
-          "http://p.ptcdn.info/076/000/000/309860_3118979705_3parn_o.png",
-        large: "https://p.ptcdn.info/076/000/000/309860_3118979705_3parn_l.jpg",
-        medium:
-          "https://p.ptcdn.info/076/000/000/309860_3118979705_3parn_m.jpg",
-        small: "https://p.ptcdn.info/076/000/000/309860_3118979705_3parn_s.jpg",
-      },
-      slug: "/profile/309860",
     },
     tags: [
       {
@@ -1380,12 +1185,6 @@ export const HiztLizt = [
     author: {
       id: 3673074,
       name: "สมาชิกหมายเลข 3673074",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/3673074",
     },
     tags: [
       {
@@ -1418,12 +1217,6 @@ export const HiztLizt = [
     author: {
       id: 8061754,
       name: "สมาชิกหมายเลข 8061754",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8061754",
     },
     tags: [
       {
@@ -1444,12 +1237,6 @@ export const HiztLizt = [
     author: {
       id: 7477321,
       name: "สมาชิกหมายเลข 7477321",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/7477321",
     },
     tags: [
       {
@@ -1480,17 +1267,6 @@ export const HiztLizt = [
     author: {
       id: 3455581,
       name: "Paint it Black",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/515/015/000/3455581_87788778691708180085_20240217-203238_o.jpg",
-        large:
-          "https://p.ptcdn.info/515/015/000/3455581_87788778691708180085_20240217-203238_l.jpg",
-        medium:
-          "https://p.ptcdn.info/515/015/000/3455581_87788778691708180085_20240217-203238_m.jpg",
-        small:
-          "https://p.ptcdn.info/515/015/000/3455581_87788778691708180085_20240217-203238_s.jpg",
-      },
-      slug: "/profile/3455581",
     },
     tags: [
       {
@@ -1620,12 +1396,6 @@ export const foodPost = [
     author: {
       id: 7914450,
       name: "สมาชิกหมายเลข 7914450",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/7914450",
     },
     tags: [
       { name: "อาหารเดลิเวอรี", slug: "อาหารเดลิเวอรี" },
@@ -1645,14 +1415,6 @@ export const foodPost = [
     author: {
       id: 7778472,
       name: "สมาชิกหมายเลข 7778472",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/295/015/000/7778472_16976836782146_o.jpg",
-        large: "https://p.ptcdn.info/295/015/000/7778472_16976836782146_l.jpg",
-        medium: "https://p.ptcdn.info/295/015/000/7778472_16976836782146_m.jpg",
-        small: "https://p.ptcdn.info/295/015/000/7778472_16976836782146_s.jpg",
-      },
-      slug: "/profile/7778472",
     },
     is_cr: true,
     is_sr: false,
@@ -1672,12 +1434,6 @@ export const foodPost = [
     author: {
       id: 8016770,
       name: "สมาชิกหมายเลข 8016770",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8016770",
     },
     is_cr: false,
     is_sr: true,
@@ -1702,14 +1458,6 @@ export const foodPost = [
     author: {
       id: 4865251,
       name: "Food Addicts",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/014/014/000/4865251_16405341098545_o.png",
-        large: "https://p.ptcdn.info/014/014/000/4865251_16405341098545_l.jpg",
-        medium: "https://p.ptcdn.info/014/014/000/4865251_16405341098545_m.jpg",
-        small: "https://p.ptcdn.info/014/014/000/4865251_16405341098545_s.jpg",
-      },
-      slug: "/profile/4865251",
     },
     is_cr: true,
     is_sr: false,
@@ -1736,13 +1484,6 @@ export const foodPost = [
     author: {
       id: 384930,
       name: "Tenma_21",
-      avatar: {
-        original: "",
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/384930",
     },
     tags: [
       { name: "คุ้มครองผู้บริโภค", slug: "คุ้มครองผู้บริโภค" },
@@ -1760,12 +1501,6 @@ export const foodPost = [
     author: {
       id: 2694472,
       name: "สมาชิกหมายเลข 2694472",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/2694472",
     },
     tags: [
       { name: "อาหารภาคใต้", slug: "อาหารภาคใต้" },
@@ -1783,14 +1518,6 @@ export const foodPost = [
     author: {
       id: 8060414,
       name: "สมาชิกหมายเลข 8060414",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/589/015/000/8060414_17117017566835_o.png",
-        large: "https://p.ptcdn.info/589/015/000/8060414_17117017566835_l.jpg",
-        medium: "https://p.ptcdn.info/589/015/000/8060414_17117017566835_m.jpg",
-        small: "https://p.ptcdn.info/589/015/000/8060414_17117017566835_s.jpg",
-      },
-      slug: "/profile/8060414",
     },
     tags: [
       { name: "ทำอาหาร", slug: "ทำอาหาร" },
@@ -1813,17 +1540,6 @@ export const foodPost = [
     author: {
       id: 2237109,
       name: "เจ๊แก้ว คนเก่ง",
-      avatar: {
-        original:
-          "http://p.ptcdn.info/368/004/000/2237109_7206509605_thumb-49141_o.jpg",
-        large:
-          "https://p.ptcdn.info/368/004/000/2237109_7206509605_thumb-49141_l.jpg",
-        medium:
-          "https://p.ptcdn.info/368/004/000/2237109_7206509605_thumb-49141_m.jpg",
-        small:
-          "https://p.ptcdn.info/368/004/000/2237109_7206509605_thumb-49141_s.jpg",
-      },
-      slug: "/profile/2237109",
     },
     tags: [
       { name: "เมนูต้ม", slug: "เมนูต้ม" },
@@ -1842,12 +1558,6 @@ export const foodPost = [
     author: {
       id: 7858261,
       name: "สมาชิกหมายเลข 7858261",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/7858261",
     },
     tags: [
       { name: "โภชนาการ", slug: "โภชนาการ" },
@@ -1865,17 +1575,6 @@ export const foodPost = [
     author: {
       id: 7978428,
       name: "สมาชิกหมายเลข 7978428",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/605/015/000/7978428_04438238221712414463_FB-IMG-1712356056521_o.jpg",
-        large:
-          "https://p.ptcdn.info/605/015/000/7978428_04438238221712414463_FB-IMG-1712356056521_l.jpg",
-        medium:
-          "https://p.ptcdn.info/605/015/000/7978428_04438238221712414463_FB-IMG-1712356056521_m.jpg",
-        small:
-          "https://p.ptcdn.info/605/015/000/7978428_04438238221712414463_FB-IMG-1712356056521_s.jpg",
-      },
-      slug: "/profile/7978428",
     },
     tags: [
       { name: "กาแฟ", slug: "กาแฟ" },
@@ -1897,14 +1596,6 @@ export const foodPost = [
     author: {
       id: 315239,
       name: "วิวริมหน้าต่าง",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/076/015/000/315239_16877450512731_o.png",
-        large: "https://p.ptcdn.info/076/015/000/315239_16877450512731_l.jpg",
-        medium: "https://p.ptcdn.info/076/015/000/315239_16877450512731_m.jpg",
-        small: "https://p.ptcdn.info/076/015/000/315239_16877450512731_s.jpg",
-      },
-      slug: "/profile/315239",
     },
     is_cr: true,
     is_sr: false,
@@ -1928,14 +1619,6 @@ export const foodPost = [
     author: {
       id: 7880574,
       name: "สมาชิกหมายเลข 7880574",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/395/015/000/7880574_17020610543551_o.jpg",
-        large: "https://p.ptcdn.info/395/015/000/7880574_17020610543551_l.jpg",
-        medium: "https://p.ptcdn.info/395/015/000/7880574_17020610543551_m.jpg",
-        small: "https://p.ptcdn.info/395/015/000/7880574_17020610543551_s.jpg",
-      },
-      slug: "/profile/7880574",
     },
     tags: [
       { name: "ร้านอาหาร", slug: "ร้านอาหาร" },
@@ -1956,14 +1639,6 @@ export const foodPost = [
     author: {
       id: 1831260,
       name: "เที่ยวสบายสบาย",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/350/015/000/1831260_16998958985132_o.jpg",
-        large: "https://p.ptcdn.info/350/015/000/1831260_16998958985132_l.jpg",
-        medium: "https://p.ptcdn.info/350/015/000/1831260_16998958985132_m.jpg",
-        small: "https://p.ptcdn.info/350/015/000/1831260_16998958985132_s.jpg",
-      },
-      slug: "/profile/1831260",
     },
     tags: [
       { name: "เที่ยววัด", slug: "เที่ยววัด" },
@@ -1986,12 +1661,6 @@ export const isolatedPost = [
     author: {
       id: 8069877,
       name: "สมาชิกหมายเลข 8069877",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8069877",
     },
     tags: [{ name: "Flash Express", slug: "Flash_Express" }],
   },
@@ -2008,12 +1677,6 @@ export const isolatedPost = [
     author: {
       id: 7840920,
       name: "สมาชิกหมายเลข 7840920",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/7840920",
     },
     tags: [{ name: "J\u0026T Express", slug: "J\u0026T_Express" }],
   },
@@ -2028,17 +1691,6 @@ export const isolatedPost = [
     author: {
       id: 7154521,
       name: "สมาชิกหมายเลข 7154521",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/583/015/000/7154521_81451117121711423318_e447f8e4b5b1996e8b1de4c9add27477_o.jpg",
-        large:
-          "https://p.ptcdn.info/583/015/000/7154521_81451117121711423318_e447f8e4b5b1996e8b1de4c9add27477_l.jpg",
-        medium:
-          "https://p.ptcdn.info/583/015/000/7154521_81451117121711423318_e447f8e4b5b1996e8b1de4c9add27477_m.jpg",
-        small:
-          "https://p.ptcdn.info/583/015/000/7154521_81451117121711423318_e447f8e4b5b1996e8b1de4c9add27477_s.jpg",
-      },
-      slug: "/profile/7154521",
     },
     tags: [{ name: "BNK48", slug: "BNK48" }],
   },
@@ -2053,12 +1705,6 @@ export const isolatedPost = [
     author: {
       id: 6495952,
       name: "สมาชิกหมายเลข 6495952",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/6495952",
     },
     tags: [{ name: "TikTok", slug: "TikTok" }],
   },
@@ -2074,12 +1720,6 @@ export const isolatedPost = [
     author: {
       id: 8009944,
       name: "สมาชิกหมายเลข 8009944",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8009944",
     },
     tags: [
       { name: "ศาลจังหวัด", slug: "ศาลจังหวัด" },
@@ -2099,12 +1739,6 @@ export const isolatedPost = [
     author: {
       id: 8077208,
       name: "สมาชิกหมายเลข 8077208",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8077208",
     },
     tags: [
       {
@@ -2125,12 +1759,6 @@ export const isolatedPost = [
     author: {
       id: 8077221,
       name: "สมาชิกหมายเลข 8077221",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8077221",
     },
     tags: [{ name: "Shopee", slug: "Shopee" }],
   },
@@ -2145,12 +1773,6 @@ export const isolatedPost = [
     author: {
       id: 8000278,
       name: "สมาชิกหมายเลข 8000278",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8000278",
     },
     tags: [
       { name: "งานโรงงาน", slug: "งานโรงงาน" },
@@ -2168,12 +1790,6 @@ export const isolatedPost = [
     author: {
       id: 8077207,
       name: "สมาชิกหมายเลข 8077207",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8077207",
     },
     tags: [{ name: "ทหารเกณฑ์", slug: "ทหารเกณฑ์" }],
   },
@@ -2188,12 +1804,6 @@ export const isolatedPost = [
     author: {
       id: 6599860,
       name: "สมาชิกหมายเลข 6599860",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/6599860",
     },
     tags: [
       {
@@ -2215,12 +1825,6 @@ export const isolatedPost = [
     author: {
       id: 7111130,
       name: "สมาชิกหมายเลข 7111130",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/7111130",
     },
     tags: [{ name: "Shopee", slug: "Shopee" }],
   },
@@ -2235,17 +1839,6 @@ export const isolatedPost = [
     author: {
       id: 8024803,
       name: "สมาชิกหมายเลข 8024803",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/553/015/000/8024803_79105002301709965943_Screenshot-20240309-133211-Instagram_o.jpg",
-        large:
-          "https://p.ptcdn.info/553/015/000/8024803_79105002301709965943_Screenshot-20240309-133211-Instagram_l.jpg",
-        medium:
-          "https://p.ptcdn.info/553/015/000/8024803_79105002301709965943_Screenshot-20240309-133211-Instagram_m.jpg",
-        small:
-          "https://p.ptcdn.info/553/015/000/8024803_79105002301709965943_Screenshot-20240309-133211-Instagram_s.jpg",
-      },
-      slug: "/profile/8024803",
     },
     tags: [
       { name: "สังคมชาวพันทิป", slug: "สังคมชาวพันทิป" },
@@ -2267,12 +1860,6 @@ export const bangrukPost = [
     author: {
       id: 4008329,
       name: "สมาชิกหมายเลข 4008329",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/4008329",
     },
     tags: [
       { name: "ปัญหาความรัก", slug: "ปัญหาความรัก" },
@@ -2292,12 +1879,6 @@ export const bangrukPost = [
     author: {
       id: 8077202,
       name: "สมาชิกหมายเลข 8077202",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8077202",
     },
     tags: [{ name: "ปัญหาความรัก", slug: "ปัญหาความรัก" }],
   },
@@ -2312,12 +1893,6 @@ export const bangrukPost = [
     author: {
       id: 8077214,
       name: "สมาชิกหมายเลข 8077214",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8077214",
     },
     tags: [
       { name: "ความรักต่างวัย", slug: "ความรักต่างวัย" },
@@ -2336,12 +1911,6 @@ export const bangrukPost = [
     author: {
       id: 8077191,
       name: "สมาชิกหมายเลข 8077191",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8077191",
     },
     tags: [
       { name: "ศาลาคนโสด", slug: "ศาลาคนโสด" },
@@ -2362,12 +1931,6 @@ export const bangrukPost = [
     author: {
       id: 6353401,
       name: "สมาชิกหมายเลข 6353401",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/6353401",
     },
     tags: [{ name: "ศาลาคนโสด", slug: "ศาลาคนโสด" }],
   },
@@ -2382,12 +1945,6 @@ export const bangrukPost = [
     author: {
       id: 7658184,
       name: "สมาชิกหมายเลข 7658184",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/7658184",
     },
     tags: [
       { name: "ประสบการณ์ชีวิตคู่", slug: "ประสบการณ์ชีวิตคู่" },
@@ -2405,12 +1962,6 @@ export const bangrukPost = [
     author: {
       id: 8044100,
       name: "สมาชิกหมายเลข 8044100",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8044100",
     },
     tags: [
       { name: "รักสามเส้า", slug: "รักสามเส้า" },
@@ -2429,12 +1980,6 @@ export const bangrukPost = [
     author: {
       id: 4724143,
       name: "สมาชิกหมายเลข 4724143",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/4724143",
     },
     tags: [
       { name: "Hurt Room", slug: "Hurt_Room" },
@@ -2455,12 +2000,6 @@ export const bangrukPost = [
     author: {
       id: 6297026,
       name: "สมาชิกหมายเลข 6297026",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/6297026",
     },
     tags: [
       { name: "ประสบการณ์ความรัก", slug: "ประสบการณ์ความรัก" },
@@ -2478,12 +2017,6 @@ export const bangrukPost = [
     author: {
       id: 8077100,
       name: "สมาชิกหมายเลข 8077100",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8077100",
     },
     tags: [
       { name: "ประสบการณ์ชีวิตคู่", slug: "ประสบการณ์ชีวิตคู่" },
@@ -2502,14 +2035,6 @@ export const bangrukPost = [
     author: {
       id: 4057106,
       name: "สมาชิกหมายเลข 4057106",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/608/015/000/4057106_17125667600622_o.jpg",
-        large: "https://p.ptcdn.info/608/015/000/4057106_17125667600622_l.jpg",
-        medium: "https://p.ptcdn.info/608/015/000/4057106_17125667600622_m.jpg",
-        small: "https://p.ptcdn.info/608/015/000/4057106_17125667600622_s.jpg",
-      },
-      slug: "/profile/4057106",
     },
     tags: [{ name: "ความรักเพศที่สาม", slug: "ความรักเพศที่สาม" }],
   },
@@ -2529,14 +2054,6 @@ export const chalermchaiPost = [
     author: {
       id: 6918814,
       name: "สมาชิกหมายเลข 6918814",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/524/015/000/6918814_17086107888764_o.jpg",
-        large: "https://p.ptcdn.info/524/015/000/6918814_17086107888764_l.jpg",
-        medium: "https://p.ptcdn.info/524/015/000/6918814_17086107888764_m.jpg",
-        small: "https://p.ptcdn.info/524/015/000/6918814_17086107888764_s.jpg",
-      },
-      slug: "/profile/6918814",
     },
     tags: [
       { name: "นักแสดงชาย", slug: "นักแสดงชาย" },
@@ -2559,14 +2076,6 @@ export const chalermchaiPost = [
     author: {
       id: 6716982,
       name: "สมาชิกหมายเลข 6716982",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/704/014/000/6716982_16703739748411_o.jpg",
-        large: "https://p.ptcdn.info/704/014/000/6716982_16703739748411_l.jpg",
-        medium: "https://p.ptcdn.info/704/014/000/6716982_16703739748411_m.jpg",
-        small: "https://p.ptcdn.info/704/014/000/6716982_16703739748411_s.jpg",
-      },
-      slug: "/profile/6716982",
     },
     tags: [
       { name: "นักแสดงชาย", slug: "นักแสดงชาย" },
@@ -2595,12 +2104,6 @@ export const chalermchaiPost = [
     author: {
       id: 484932,
       name: "ekka_eak",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/484932",
     },
     is_cr: true,
     is_sr: false,
@@ -2631,12 +2134,6 @@ export const chalermchaiPost = [
     author: {
       id: 163227,
       name: "okb",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/163227",
     },
     tags: [
       { name: "ภาพยนตร์", slug: "ภาพยนตร์" },
@@ -2656,14 +2153,6 @@ export const chalermchaiPost = [
     author: {
       id: 2720957,
       name: "สมาชิกหมายเลข 2720957",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/508/013/000/2720957_16222337413105_o.jpg",
-        large: "https://p.ptcdn.info/508/013/000/2720957_16222337413105_l.jpg",
-        medium: "https://p.ptcdn.info/508/013/000/2720957_16222337413105_m.jpg",
-        small: "https://p.ptcdn.info/508/013/000/2720957_16222337413105_s.jpg",
-      },
-      slug: "/profile/2720957",
     },
     tags: [
       {
@@ -2690,12 +2179,6 @@ export const chalermchaiPost = [
     author: {
       id: 7973353,
       name: "สมาชิกหมายเลข 7973353",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/7973353",
     },
     tags: [
       { name: "SF Cinema", slug: "SF_Cinema" },
@@ -2716,12 +2199,6 @@ export const chalermchaiPost = [
     author: {
       id: 7477321,
       name: "สมาชิกหมายเลข 7477321",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/7477321",
     },
     tags: [
       { name: "นักแสดงหญิง", slug: "นักแสดงหญิง" },
@@ -2744,17 +2221,6 @@ export const chalermchaiPost = [
     author: {
       id: 5319072,
       name: "MONO29",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/376/011/000/5319072_8089482217_20525887-729202623942549-2482778577626705704-n22_o.jpg",
-        large:
-          "https://p.ptcdn.info/376/011/000/5319072_8089482217_20525887-729202623942549-2482778577626705704-n22_l.jpg",
-        medium:
-          "https://p.ptcdn.info/376/011/000/5319072_8089482217_20525887-729202623942549-2482778577626705704-n22_m.jpg",
-        small:
-          "https://p.ptcdn.info/376/011/000/5319072_8089482217_20525887-729202623942549-2482778577626705704-n22_s.jpg",
-      },
-      slug: "/profile/5319072",
     },
     tags: [
       { name: "MONO 29", slug: "MONO_29" },
@@ -2785,12 +2251,6 @@ export const chalermchaiPost = [
     author: {
       id: 8029013,
       name: "สมาชิกหมายเลข 8029013",
-      avatar: {
-        large: "https://ptcdn.info/images/avatar_member_default.png",
-        medium: "https://ptcdn.info/images/avatar_member_default.png",
-        small: "https://ptcdn.info/images/avatar_member_default.png",
-      },
-      slug: "/profile/8029013",
     },
     tags: [
       {
@@ -2817,14 +2277,6 @@ export const chalermchaiPost = [
     author: {
       id: 6133764,
       name: "สมาชิกหมายเลข 6133764",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/206/015/000/6133764_16937627533855_o.jpg",
-        large: "https://p.ptcdn.info/206/015/000/6133764_16937627533855_l.jpg",
-        medium: "https://p.ptcdn.info/206/015/000/6133764_16937627533855_m.jpg",
-        small: "https://p.ptcdn.info/206/015/000/6133764_16937627533855_s.jpg",
-      },
-      slug: "/profile/6133764",
     },
     tags: [
       { name: "ภาพยนตร์", slug: "ภาพยนตร์" },
@@ -2846,14 +2298,6 @@ export const chalermchaiPost = [
     author: {
       id: 376755,
       name: "จักรพรรดิแดนรักทหารErosPhoenix",
-      avatar: {
-        original:
-          "https://p.ptcdn.info/016/015/000/376755_16850969101700_o.jpg",
-        large: "https://p.ptcdn.info/016/015/000/376755_16850969101700_l.jpg",
-        medium: "https://p.ptcdn.info/016/015/000/376755_16850969101700_m.jpg",
-        small: "https://p.ptcdn.info/016/015/000/376755_16850969101700_s.jpg",
-      },
-      slug: "/profile/376755",
     },
     tags: [
       { name: "นักแสดงภาพยนตร์", slug: "นักแสดงภาพยนตร์" },

@@ -1,4 +1,3 @@
-import React from "react";
 import { BiHomeAlt, BiCommentAdd } from "react-icons/bi";
 import { GrGroup } from "react-icons/gr";
 import { LuMail } from "react-icons/lu";
