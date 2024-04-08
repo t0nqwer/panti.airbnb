@@ -14,7 +14,7 @@ const RoomPost = () => {
 
   return (
     <div className="flex flex-wrap w-full divpadding ">
-      {roomPost.map((roomPost, index) => {
+      {roomPost.map((roomPost: any, index: number) => {
         if (index > 8) return null;
         return (
           <Card

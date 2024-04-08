@@ -48,7 +48,7 @@ const TopNavBar = () => {
           {search.length > 0 && searchFocus && (
             <div className="absolute z-50 w-full mt-2 overflow-hidden overflow-y-auto rounded-md shadow-md h-96 bg-background-primary rounded-b-xl text-text-normal ">
               <ul className="">
-                {search.map((item, index) => {
+                {search.map((item: any) => {
                   return (
                     <li
                       key={item.topic_id}
