@@ -1,5 +1,4 @@
 import { configureStore } from "@reduxjs/toolkit";
-import counterReducer from "./counter/counterSlice";
 import searchReducer from "./search/searchSlice";
 import roompostReducer from "./roompost/roompostSlice";
 import roomSelectReducer from "./roomselect/roomselectSlice";
